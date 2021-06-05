@@ -1,1 +1,1 @@
-# ShapeAI_Bootcamp_BWD
+# ShapeAI_Bootcamp_ReactJS
